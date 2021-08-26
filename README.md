@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I fell into programming after building an automation for a boring task and have never left since. <br />
+Welcome to my profile. <br />
 
  <div>
   <a href="https://github.com/guiparpinelli">
